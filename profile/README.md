@@ -1,4 +1,4 @@
-# Hi there, Here is Youpi Media Organization - <img width="30px" height="30" src="https://youpi.media/wp-content/uploads/2023/07/youpi-media.png" />
+# Hi there, Here is Youpi Media Organization - <img width="50px" height="30" src="https://youpi.media/wp-content/uploads/2023/07/youpi-media.png" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
